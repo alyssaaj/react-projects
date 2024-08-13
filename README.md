@@ -1,5 +1,6 @@
 # react-projects
 Various React Projects such as:
+- Stopwatch
 - Digital Clock
 - To Do List
 - Color Picker
