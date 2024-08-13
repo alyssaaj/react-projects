@@ -7,4 +7,7 @@ Various React Projects such as:
 - Counter
 - Food & Car Lists
 
-To run: in project folder run `npm run dev`.
+To run: 
+1. download project folder 
+2. cd into folder
+3. run `npm run dev`
