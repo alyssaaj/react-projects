@@ -5,3 +5,5 @@ Various React Projects such as:
 - Color Picker
 - Counter
 - Food & Car Lists
+
+To run: in project folder run `npm run dev`.
