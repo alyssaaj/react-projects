@@ -1,2 +1,5 @@
 # react-projects
-Various React Projects
+Various React Projects such as:
+- Color Picker
+- Food & Car Lists
+- Counter
